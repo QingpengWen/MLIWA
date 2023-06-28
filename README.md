@@ -29,7 +29,7 @@ We highly suggest you using [Anaconda](https://www.anaconda.com) to manage your 
 ## Datasets
 The two publicly available datasets used in this project, CAIS and SMP-ECDT datasets, are available [here](https://github.com/AaronTengDeChuan/MLWA-Chinese-SLU/tree/main/data).
 
-For the home-made dataset used in the project, the Hara-Kami Encyclopedic Dictionary, it can be obtained by running the code in the **Work-Demo** folder.
+For the home-made dataset used in the project, **the Genshin Impact Encyclopedic Dictionary**, it can be obtained by running the code in the **Work-Demo** folder.
 
 ## Quick start
 The script **train.py** acts as a main function to the project, you can run the experiments by replacing the unspecified options in the following command with the corresponding values.
