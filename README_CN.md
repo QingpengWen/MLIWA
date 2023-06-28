@@ -15,8 +15,10 @@
 
 ## 模型框架
 <img src="Figures\fig.png">
+
 ## 环境要求
 我们的代码基于Python 3.7.6和PyTorch 1.1. 相关环境资源包要求如下:
+
 > - torch==1.1.0
 > - transformers==2.4.1
 > - numpy==1.18.1
