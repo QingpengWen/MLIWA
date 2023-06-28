@@ -1,6 +1,8 @@
 # MLIWA-Chinese-SLU
 ***Note: This paper is a coursework paper for a course design on text information processing***
+
 English|[中文](README_CN.md)
+
 This repository contains the PyTorch implementation of the paper: 
 
 ****A Chinese Spoken Language Understanding Model Based on Multilevel Iteration and Word Adapters****. 
