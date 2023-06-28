@@ -14,7 +14,7 @@ This repository contains the PyTorch implementation of the paper:
 **Special thanks to:** Prof. [Bi Zeng](mailto:zb9215@gdut.edu.cn), Mentor [Pengfei Wei](mailto:wpf@gdut.edu.cn)
 ## Architecture
 
-<img src="Figures\fig.png">
+<img ="Figures\fig.png">
 
 ## Requirements
 Our code is based on Python 3.7.6 and PyTorch 1.1. Requirements are listed as follows:
