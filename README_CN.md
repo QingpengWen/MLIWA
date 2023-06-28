@@ -28,9 +28,9 @@
 我们强烈建议您使用 [Anaconda](https://www.anaconda.com)来管理您的环境.
 
 ## 数据集
-本项目使用的两个公开数据集CAIS和SMP-ECDT数据集可在此处获取。
+本项目使用的两个公开数据集CAIS和SMP-ECDT数据集可在[此处](https://github.com/AaronTengDeChuan/MLWA-Chinese-SLU/tree/main/data)获取。
 
-对于项目使用的自制数据集****《原神百科词典》****，可通过运行**Work-Demo**文件夹里的代码获得。
+对于项目使用的自制数据集《**原神百科词典**》，可通过运行**Work-Demo**文件夹里的代码获得。
 
 ## 快速复现
 脚本 **train.py** 是项目的主函数, 你可以通过用相应的值替换以下命令中未指定的选项来运行实验。
