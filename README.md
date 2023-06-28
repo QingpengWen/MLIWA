@@ -7,11 +7,11 @@ This repository contains the PyTorch implementation of the paper:
 
 ****A Chinese Spoken Language Understanding Model Based on Multilevel Iteration and Word Adapters****. 
 
-**Author:** Qingpeng Wen. 
+**Author:** [Qingpeng Wen](mailto:wqp@mail2.gdut.edu.cn). 
 
-**Instructor:** Yiyang Yang
+**Instructor:** [Yiyang Yang](mailto:yyygou_yang@163.com)
 
-**Special thanks to:** Prof. Bi Zeng, Mentor Pengfei Wei
+**Special thanks to:** Prof. [Bi Zeng](mailto:zb9215@gdut.edu.cn), Mentor [Pengfei Wei](mailto:wpf@gdut.edu.cn)
 ## Architecture
 
 <img src="Figures\fig.png">
